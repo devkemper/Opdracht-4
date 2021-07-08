@@ -1,0 +1,40 @@
+body {
+  padding: 10%;
+}
+
+h1.black-border {
+  border: 5px solid black;
+  color: blue;
+  font-size: 2.5em;
+  font-family: verdana;
+  margin-top: 1em;
+  margin-left: 4cm;
+  margin-right: 4cm;
+}
+h2 {
+  font-style: italic;
+  text-align: center;
+}
+p.black-border {
+  border: 1px dotted black;
+}
+ol.beige-background {
+  border: 2px solid black;
+  background-color: beige;
+}
+#blue-border {
+  border: 1px solid blue;
+}
+p.purple-box {
+  border: 1px solid purple;
+  background-color: purple;
+  margin-left: 10cm;
+  margin-right: 10cm;
+  font-size: 2.5em;
+  font-family: verdana;
+  text-align: center;
+}
+ul.beige-background {
+  border: 2px solid black;
+  background-color: beige;
+}
